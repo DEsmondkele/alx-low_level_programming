@@ -2,14 +2,14 @@
 
 /**
  * _islower -checks for alphabet in lowercase
- * @character: an ASCII char
+ * @char: an ASCII char
  *
  * Return: 1 if lowercase
  */
 
-int _islower(int character)
+int _islower(int char)
 {
-	if (character >= 'a' && chracter <= 'z')
+	if (char >= 'a' && char <= 'z')
 		return (1);
 	else
 		return (0);
