@@ -2,7 +2,7 @@
 
 /**
  * _islower -checks for alphabet in lowercase
- * @char: an ASCII char
+ * @character: an ASCII character
  *
  * Return: 1 if lowercase
  */
