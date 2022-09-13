@@ -7,9 +7,9 @@
  * Return: 1 if is alphabet character
  */
 
-int _isalpha(int alphabet)
+int _isalpha (int alphabet)
 {
-	if(alphabet >= 'a' && alphabet <= 'z')
+	if (alphabet >= 'a' && alphabet <= 'z')
 	{
 		return (1);
 	}
