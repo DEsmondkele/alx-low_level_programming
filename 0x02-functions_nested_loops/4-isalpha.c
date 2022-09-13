@@ -19,6 +19,6 @@ int _isalpha(int alphabet)
 	}
 	else
 	{
-	 	return (0);
+		return (0);
 	}
 }
