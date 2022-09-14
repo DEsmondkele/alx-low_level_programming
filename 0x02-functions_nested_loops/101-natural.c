@@ -18,6 +18,6 @@ int main(void)
 			total +=number;
 		}
 	}
-	printf("d\n", total);
+	printf("%d\n", total);
 	return (0);
 }	
