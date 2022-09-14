@@ -6,10 +6,10 @@
  * Description: prints the times table of num
  * Return: void
  */
-
 void print_times_table(int num)
 {
 	int row, column, product;
+
 	if (num >= 0 && num < 15)
 	{
 		for (row = 0; row <= num; row++)
@@ -49,5 +49,4 @@ void print_times_table(int num)
 			_putchar ('\n');
 		}
 	}
-}
-							
+}	
