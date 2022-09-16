@@ -26,10 +26,6 @@ int main(void)
 		else
 			printf("%d ", i);
 
-		if (i < 100)
-			putchar(' ');
-		else
-			putchar(' ');
 	}
 	return (0);
 }
